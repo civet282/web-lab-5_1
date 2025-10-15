@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<bookstore>
+    <book id="01">
+        <title>Hamlet</title>
+        <author>William Shakespeare</author>
+        <price currency="RMB">79.00</price>
+    </book>
+    <book id="02">
+        <title>The Lord of the Rings</title>
+        <author>J.R.R.Tolkien</author>
+        <price currency="RMB">59.00</price>
+    </book>
+    <book id="03">
+        <title>Jane Eyre</title>
+        <author>Charlotte Bronte</author>
+        <price currency="RMB">76.00</price>
+    </book>
+    <book id="04">
+        <title>Pride and Prejudice</title>
+        <author>Jane Austen</author>
+        <price currency="RMB">67.00</price>
+    </book>
+    <book id="05">
+        <title>The Old Man and the Sea</title>
+        <author>Ernest Hemingway</author>
+        <price currency="RMB">88.00</price>
+    </book>
+</bookstore>
